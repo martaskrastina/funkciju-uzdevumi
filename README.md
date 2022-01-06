@@ -18,3 +18,4 @@ Tarifs
 4.gadi
 0.15964 €/kWh
 
+7 Uzrakstīt funkciju, kas dotajam nedēļas dienas numuram atgriež dienas nosaukumu vārdiem.
